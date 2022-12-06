@@ -1,6 +1,4 @@
-# About-me
-
-Hello, I'm João Silva
+# Hello, I'm João Silva
 
 Projects working on:
 - 💪🏽 Exercise App **Desktop Application** 
