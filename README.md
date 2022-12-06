@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Silva</h1>
-<h3 align="center">Course: Tecnologias Web e Dispositivos Móveis</h3>
+<h3 align="left">Course: Tecnologias Web e Dispositivos Móveis</h3>
 
 - 🔭 I’m currently working on **Exercise App**
 
 - 🌱 I’m currently learning **Java, HTML, CSS**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
