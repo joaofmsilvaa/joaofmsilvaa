@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Silva</h1>
 <h3 align="left">Course: Tecnologias Web e Dispositivos Móveis</h3>
 
-<!-- - 🔭 I’m currently working on **** -->
+🔭 I’m currently working on **Responsive Cooking Recipes Website** 
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS**
 
