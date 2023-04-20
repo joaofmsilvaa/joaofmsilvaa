@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Silva</h1>
 <h3 align="left">Course: Tecnologias Web e Dispositivos Móveis</h3>
 
-- 🔭 I’m currently working on **Responsive Cooking Recipes Website** 
+- 🔭 I’m currently working on **Workout Mobile App** 
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **HTML, CSS and Android Studio ( Java )**
 
 <p align="left">
 </p>
