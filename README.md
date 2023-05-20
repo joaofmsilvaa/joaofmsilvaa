@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [Workout Mobile App](https://github.com/JOao7640/BodyBoost-Android-App)
 - 🔭 I’m currently working on [HealthFinder Website](https://github.com/JOao7640/HealthFinder)
+- 🔭 I’m currently working on [ChatBot](https://github.com/JOao7640/ChatBot)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Mobile development with Java**
 
