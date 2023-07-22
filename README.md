@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Workout Mobile App](https://github.com/JOao7640/BodyBoost-Android-App)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Mobile development with Java**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and Laravel**
 
 
 </p>
