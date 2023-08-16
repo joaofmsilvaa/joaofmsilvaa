@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Silva</h1>
-<h3 align="center">A passionate frontend and Mobile App student</h3>
+<h3 align="center">A passionate web and Mobile development student</h3>
 
 - 🔭 I’m currently working on [Workout Mobile App](https://github.com/JOao7640/BodyBoost-Android-App)
 
