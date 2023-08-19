@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Silva</h1>
 
-- 🔭 I’m currently working on [Workout Mobile App](https://github.com/JOao7640/BodyBoost-Android-App)
+- 🔭 I’m currently working on [Laravel Blog](https://github.com/JOao7640/blog)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Laravel**
 
