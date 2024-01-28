@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Silva</h1>
 
----
 [![](https://visitcount.itsvg.in/api?id=JOao7640&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
