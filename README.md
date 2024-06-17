@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=joaofmsilvaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently an intern at [Mindshaker](https://mindshaker.com/)<br>🌱 I’m currently learning SASS<br>
+🔭 I’m currently an intern at [Mindshaker](https://mindshaker.com/)<br>🌱 I’m currently learning NextJS<br>
 
 
 ## 🌐 Socials:
