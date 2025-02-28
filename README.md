@@ -1,7 +1,7 @@
 <img src="https://github.com/joaofmsilvaa/joaofmsilvaa/blob/main/banner.png" alt="banner">
 
 # 💫 About Me:
-🔭 Take a look at my [portfolio](https://joaosilva-portfolio.vercel.app/)<br>🌱 I’m currently learning C<br>👯 I’m looking to collaborate on open-source projects<br>💬 Ask me about Laravel<br>⚡ Contact me at [joaosilva.contacts@gmail.com](mailto:joaosilva.contacts@gmail.com?subject=[GitHub]%20Contact)
+🔭 Take a look at my [portfolio](https://joaosilva-portfolio.vercel.app/)<br>🌱 I’m currently learning OOP with Java<br>👯 I’m looking to collaborate on open-source projects<br>💬 Ask me about Laravel<br>⚡ Contact me at [joaosilva.contacts@gmail.com](mailto:joaosilva.contacts@gmail.com?subject=[GitHub]%20Contact)
 
 
 
